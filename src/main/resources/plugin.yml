@@ -1,0 +1,5 @@
+name: cordHideAchievements
+version: '${project.version}'
+main: mrc.dev.CordHideAchievements
+api-version: '1.16'
+author: mrcDEV
